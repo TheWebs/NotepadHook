@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryWorkoutConsole", "MemoryWorkoutConsole\MemoryWorkoutConsole.csproj", "{60873A41-FCC9-4CB2-B817-47B6949719E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60873A41-FCC9-4CB2-B817-47B6949719E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60873A41-FCC9-4CB2-B817-47B6949719E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60873A41-FCC9-4CB2-B817-47B6949719E0}.Debug|x64.ActiveCfg = Debug|x64
+		{60873A41-FCC9-4CB2-B817-47B6949719E0}.Debug|x64.Build.0 = Debug|x64
+		{60873A41-FCC9-4CB2-B817-47B6949719E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60873A41-FCC9-4CB2-B817-47B6949719E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60873A41-FCC9-4CB2-B817-47B6949719E0}.Release|x64.ActiveCfg = Release|x64
+		{60873A41-FCC9-4CB2-B817-47B6949719E0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B98D4DFE-66A1-450A-9024-B9306437C1F1}
+	EndGlobalSection
+EndGlobal
